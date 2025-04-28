@@ -4,3 +4,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Marked as Done
+- [ ] Not done yet
